@@ -1,3 +1,3 @@
 # quiz-app
 
-A simple quiz app, can be found at - 
+A simple quiz app
